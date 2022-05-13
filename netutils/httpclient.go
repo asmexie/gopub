@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"bitbucket.org/muroachanf/gopub/common"
+	"github.com/asmexie/gopub/common"
 	"golang.org/x/net/proxy"
 )
 

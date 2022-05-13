@@ -3,7 +3,7 @@ package dbutils
 import (
 	"strconv"
 
-	"bitbucket.org/muroachanf/gopub/common"
+	"github.com/asmexie/gopub/common"
 )
 
 // DBConfig ...

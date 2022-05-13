@@ -9,8 +9,8 @@ import (
 	"net/http/httptest"
 	"strings"
 
-	"bitbucket.org/muroachanf/gopub/common"
-	"bitbucket.org/muroachanf/gopub/netutils"
+	"github.com/asmexie/gopub/common"
+	"github.com/asmexie/gopub/netutils"
 	"github.com/muroachanf/go-logger/logger"
 )
 

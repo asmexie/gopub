@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"bitbucket.org/muroachanf/gopub/common"
+	"github.com/asmexie/gopub/common"
 	"github.com/go-errors/errors"
 	"github.com/muroachanf/go-logger/logger"
 	"golang.org/x/crypto/ssh"

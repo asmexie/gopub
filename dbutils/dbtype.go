@@ -13,7 +13,7 @@ import (
 
 	"github.com/muroachanf/dbr"
 
-	"bitbucket.org/muroachanf/gopub/common"
+	"github.com/asmexie/gopub/common"
 
 	"github.com/go-sql-driver/mysql"
 )

@@ -10,8 +10,8 @@ import (
 	"sort"
 	"strings"
 
-	"bitbucket.org/muroachanf/gopub/cipher2"
-	"bitbucket.org/muroachanf/gopub/common"
+	"github.com/asmexie/gopub/cipher2"
+	"github.com/asmexie/gopub/common"
 )
 
 // FieldTagCallback ...

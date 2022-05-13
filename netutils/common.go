@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"bitbucket.org/muroachanf/gopub/common"
+	"github.com/asmexie/gopub/common"
 )
 
 // ReadRespToMap ...

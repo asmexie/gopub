@@ -6,7 +6,7 @@ import (
 	"io"
 	"sync"
 
-	"bitbucket.org/muroachanf/gopub/common"
+	"github.com/asmexie/gopub/common"
 )
 
 var (

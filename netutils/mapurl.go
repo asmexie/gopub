@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/url"
 
-	"bitbucket.org/muroachanf/gopub/common"
+	"github.com/asmexie/gopub/common"
 )
 
 // MapURL ...

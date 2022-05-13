@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"bitbucket.org/muroachanf/gopub/common"
+	"github.com/asmexie/gopub/common"
 )
 
 const testServer = `

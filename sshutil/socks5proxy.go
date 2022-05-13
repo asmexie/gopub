@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"bitbucket.org/muroachanf/gopub/common"
+	"github.com/asmexie/gopub/common"
 	"github.com/muroachanf/go-logger/logger"
 	socks5 "github.com/muroachanf/go-socks5"
 )

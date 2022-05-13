@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"time"
 
-	"bitbucket.org/muroachanf/gopub/common"
+	"github.com/asmexie/gopub/common"
 	"github.com/muroachanf/go-logger/logger"
 	gcc "github.com/patrickmn/go-cache"
 )

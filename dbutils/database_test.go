@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"bitbucket.org/muroachanf/gopub/common"
+	"github.com/asmexie/gopub/common"
 )
 
 func TestGenCUID(t *testing.T) {
