@@ -11,7 +11,7 @@ import (
 
 	"github.com/asmexie/gopub/common"
 	"github.com/asmexie/gopub/netutils"
-	"github.com/muroachanf/go-logger/logger"
+	"github.com/asmexie/go-logger/logger"
 )
 
 // BeforeTestReqRunProc ...

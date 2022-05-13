@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/asmexie/gopub/common"
-	"github.com/muroachanf/go-logger/logger"
+	"github.com/asmexie/go-logger/logger"
 )
 
 func TestRSAKey(t *testing.T) {

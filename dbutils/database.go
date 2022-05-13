@@ -9,9 +9,9 @@ import (
 	"time"
 
 	"github.com/asmexie/gopub/common"
-	"github.com/muroachanf/dbr"
-	"github.com/muroachanf/dbr/dialect"
-	"github.com/muroachanf/go-logger/logger"
+	"github.com/asmexie/dbr"
+	"github.com/asmexie/dbr/dialect"
+	"github.com/asmexie/go-logger/logger"
 )
 
 // Database ...

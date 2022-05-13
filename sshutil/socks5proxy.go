@@ -11,8 +11,8 @@ import (
 	"time"
 
 	"github.com/asmexie/gopub/common"
-	"github.com/muroachanf/go-logger/logger"
-	socks5 "github.com/muroachanf/go-socks5"
+	"github.com/asmexie/go-logger/logger"
+	socks5 "github.com/asmexie/go-socks5"
 )
 
 var netListen = net.Listen

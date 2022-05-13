@@ -13,7 +13,7 @@ import (
 	"time"
 
 	"github.com/asmexie/gopub/common"
-	"github.com/muroachanf/go-logger/logger"
+	"github.com/asmexie/go-logger/logger"
 	"golang.org/x/crypto/ssh"
 	"golang.org/x/net/proxy"
 )

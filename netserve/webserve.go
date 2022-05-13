@@ -10,8 +10,8 @@ import (
 
 	"github.com/asmexie/gopub/common"
 	"github.com/asmexie/gopub/netutils"
-	"github.com/muroachanf/go-logger/logger"
-	"github.com/muroachanf/mux"
+	"github.com/asmexie/go-logger/logger"
+	"github.com/asmexie/mux"
 )
 
 var epoch = time.Unix(0, 0).Format(time.RFC1123)

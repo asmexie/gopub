@@ -11,7 +11,7 @@ import (
 	"time"
 
 	"github.com/asmexie/gopub/common"
-	"github.com/muroachanf/go-logger/logger"
+	"github.com/asmexie/go-logger/logger"
 )
 
 const noLimit int64 = (1 << 63) - 1

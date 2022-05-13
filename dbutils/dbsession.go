@@ -8,8 +8,8 @@ import (
 	"time"
 
 	"github.com/asmexie/gopub/common"
-	"github.com/muroachanf/dbr"
-	"github.com/muroachanf/go-logger/logger"
+	"github.com/asmexie/dbr"
+	"github.com/asmexie/go-logger/logger"
 )
 
 // DBSession ...

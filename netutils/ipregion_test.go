@@ -6,7 +6,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/muroachanf/go-logger/logger"
+	"github.com/asmexie/go-logger/logger"
 )
 
 func TestSearchIP(t *testing.T) {

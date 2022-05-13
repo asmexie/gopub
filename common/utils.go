@@ -23,13 +23,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/muroachanf/envsubst"
+	"github.com/asmexie/envsubst"
 
 	"github.com/termie/go-shutil"
 	"gopkg.in/yaml.v2"
 
 	"github.com/go-errors/errors"
-	"github.com/muroachanf/go-logger/logger"
+	"github.com/asmexie/go-logger/logger"
 )
 
 // CheckError panic when error happened

@@ -5,7 +5,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/muroachanf/go-logger/logger"
+	"github.com/asmexie/go-logger/logger"
 	"golang.org/x/crypto/ssh"
 )
 

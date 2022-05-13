@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/muroachanf/go-logger/logger"
+	"github.com/asmexie/go-logger/logger"
 )
 
 func TestGetExecPath(t *testing.T) {
