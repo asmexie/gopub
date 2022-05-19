@@ -23,7 +23,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/muroachanf/envsubst"
+	"github.com/drone/envsubst"
 
 	"github.com/termie/go-shutil"
 	"gopkg.in/yaml.v2"
